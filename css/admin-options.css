@@ -1,0 +1,13 @@
+.settings_page_smct-options h2 {
+    margin-bottom: 0;
+}
+.settings_page_smct-options .form-table tr th,
+.settings_page_smct-options .form-table td {
+    padding-top:10px;
+}
+.settings_page_smct-options .form-table th {
+    width:250px;
+}
+.settings_page_smct-options .form-table input[type=text] {
+    width:50%;
+}

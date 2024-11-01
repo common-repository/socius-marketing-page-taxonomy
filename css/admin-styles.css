@@ -1,0 +1,11 @@
+select#newsmct_cats_parent {
+	display:none;
+}
+#smct_custom_widget p {
+	margin-top:0;
+    width: 50%;
+    display: inline-block;
+}
+#smct_custom_widget .dashicons {
+    color: #82878c;
+}
